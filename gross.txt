@@ -1,0 +1,21 @@
+begin
+numeric basic,Hra,Da,gross
+print("Enter the basic salary,Hra,Da")
+input basic
+input Hra 
+input Da
+if(basic<=10000){
+Hra=(67*basic)/100&&Da=(75*basic)/100
+
+}
+else if(basic<=20000){
+Hra=(69*basic)/100&&Da=(79*basic)/100
+}
+else{
+Hra=(75*basic)/100&&Da=(85*basic)/100
+}
+gross=basic+Hra+Da
+print("the gross salary is",gross)
+end
+
+

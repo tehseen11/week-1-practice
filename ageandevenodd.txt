@@ -1,0 +1,24 @@
+begin
+numeric num
+print("enter the number to check it is even or odd")
+input num
+if(num%2==0){
+print(num", is even")
+}
+else
+print(num",is odd")
+end
+
+
+
+
+begin
+numeric age
+print("enter the age to check it is eligible or not")
+input age
+if(num>=18){
+print(age", is eligible for voting")
+}
+else
+print(num",is not eligible for voting")
+end

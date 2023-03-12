@@ -1,0 +1,30 @@
+Begin
+numeric num
+print("enter num to find the day of week")
+input num
+
+if (num=1){
+print("the day is Monday");
+}
+elseif (num=2){
+print("the day is Tuesday");
+}
+elseif (num=3){
+print("the day is wednesday");
+}
+elseif (num=4){
+print("the day is thrusday");
+}
+elseif (num=5){
+print("the day is friday");
+}
+elseif (num=6){
+print("the day is saterday");
+}
+elseif (num=7){
+print("the day is sunday");
+}
+else {
+print("invalid number");
+}
+end

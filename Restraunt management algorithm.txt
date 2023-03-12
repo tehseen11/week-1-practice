@@ -1,0 +1,33 @@
+Order Management System
+
+
+1.Customer place the order.
+2.Order delivers to the database system.
+3.Display the order details at screen on cashier counter and on kitchen counter.
+4.Order serve to the guest.
+5.System calculates the order's total cost.
+6.Payment processes. 
+
+
+Kitchen Management System
+
+
+
+1. Order is placed and confirmed and displayed on the kitchen screen.
+2. Order is being analyzed by the head chef.
+3. Order is then distributed among co chefs.
+4. The food preparations starts. 
+5. The plating is done and ready to serve.
+
+
+
+Employee Management System
+
+
+
+1. Greet the guest when arrived.
+2. Check the availbility of the table and take them to the table.
+3. Hand over the menu to the guest.
+4. Take the order from the guest and deliver it to the kitchen staff.
+5. Serve the food and be available if they want anything else.
+6. Bring the bill from cashier and place it in the table.
